@@ -1,82 +1,19 @@
-
-<!-- HEADER -->
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ganesh+%F0%9F%91%8B;Engineering+%7C+AI+%7C+Cloud+%7C+Web" alt="Typing SVG" />
 
-# 👋 Hey, I'm Ganesh C
+  <p>Engineering student at <b>Saveetha Engineering College</b> building practical web tools & exploring AI and Cloud.</p>
 
-### 🎓 AI & Data Science Student | Aspiring AI Engineer
+  <p>
+    <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Enthusiast;Machine+Learning+Learner;Python+%7C+C+%7C+C%2B%2B;Building+%2C+Learning+%2C+Innovating" alt="Typing animation" />
+  <br />
 
-</div>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,aws,git,github" alt="Tech Stack" />
 
----
+  <br /><br />
 
-## 🚀 About Me
-
-🎓 Pursuing **B.Tech in Artificial Intelligence and Data Science** at **Saveetha Engineering College**.
-
-- 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 💻 Exploring programming and software development
-- 🌱 Constantly learning and building new skills
-- 🧩 Interested in solving real-world problems using technology
-- 🎯 Aspiring to become an AI Engineer
-
----
-
-## 🛠️ Tech Stack & Skills
-
-<div align="center">
-
-### 💻 Programming Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-### 🧠 Areas of Interest
-<img src="https://img.shields.io/badge/Artificial_Intelligence-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine_Learning-00A86B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Web_Development-FF9800?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Software_Development-0078D4?style=for-the-badge"/>
-
-</div>
-
----
-
-## 🎯 My Goals
-
-- 📚 Deepen my knowledge of Artificial Intelligence
-- 🧠 Learn Machine Learning through practical projects
-- 💡 Develop innovative software applications
-- 🌐 Improve my development skills
-- 🤝 Collaborate with other developers and learners
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/ganesh-c2007">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<!-- Replace YOUR_LINKEDIN_URL with your actual LinkedIn URL -->
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💫 *"The best way to predict the future is to create it."*
-
-<img src="https://komarev.com/ghpvc/?username=ganesh-c2007&label=Profile%20Views&color=blue&style=flat" alt="Profile views"/>
-
-**Thanks for visiting my profile! 🚀**
-
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ganesh-c2007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh-c2007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </div>
